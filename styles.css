@@ -1,0 +1,19 @@
+.square{
+    width: 256px;
+    height: 256px;
+    border-style: solid;
+    border-color: black;
+}
+
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 786px;
+    height: 786px;
+}
+
+.diglett{
+    background-image: url(images/diglett.png);
+}
